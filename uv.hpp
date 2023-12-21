@@ -1061,6 +1061,7 @@ DEFINE_TYPE_MAP_ENTRY(uv_cond_t, Cond)
 DEFINE_TYPE_MAP_ENTRY(uv_barrier_t, Barrier)
 DEFINE_TYPE_MAP_ENTRY(uv_fs_t, Fs)
 DEFINE_TYPE_MAP_ENTRY(uv_loop_t, Loop)
+DEFINE_TYPE_MAP_ENTRY(uv_metrics_t, Metrics)
 
 #undef DEFINE_TYPE_MAP_ENTRY
 
